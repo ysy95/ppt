@@ -11,6 +11,11 @@ ul,li,ol{
 ul{
   width: 1200px;
   margin: 0 auto;
+
+}
+ul li{
+  width: 49%;
+  display: inline-block;
 }
 ul li img{
   width: 100%;
